@@ -1,0 +1,27 @@
+table, tr, th, td{
+  border: solid 1px;
+  border-collapse: collapse;
+  padding: 10px;
+  text-align: center;
+}
+
+.yellow{
+  background-color: yellow;
+}
+.ggg{
+  background-color: green;
+  color: red;
+}
+.bbb{
+  background-color: blue;
+  color: blue;
+}
+.gr{
+  background-color: green;
+  color: green;
+}
+.grey{
+  background-color: grey;
+  color: red;
+  border-color: grey;
+}
